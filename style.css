@@ -1,0 +1,51 @@
+
+.px-6 { padding-left: 4rem; padding-right: 4rem; }
+.px-7 { padding-left: 5rem; padding-right: 5rem; }
+.px-8 { padding-left: 6rem; padding-right: 6rem; }
+.px-9 { padding-left: 7.5rem; padding-right: 7.5rem; }
+.px-10 { padding-left: 10rem; padding-right: 10rem; }
+
+.full-width { width: 100%; }
+
+/* 網站標題的字型樣式 */
+.website-title-font {
+    font-family: 'Galada', cursive;
+    font-size: 3.25rem;
+    padding-top: 16px;
+    line-height: 3.5rem;
+}
+
+/* 推薦文章區塊 */
+.popular-articles-section-shadow {
+    box-shadow: 0 0 5px black, 0 0 9px black;
+}
+
+/* 推薦文章 */
+.article-shadow {
+    color: white;
+    text-shadow: 0 0 3px black, 0 0 5px black, 0 0 7px black, 0 0 9px black;
+}
+
+/* 文章的分類標籤樣式 */
+.tag-shadow {
+    border: 2px solid white;
+    box-shadow: 0 0 3px black, 0 0 5px black, 0 0 7px black, 0 0 9px black;
+}
+
+/* 背景圖片「彈珠球」 */
+.background-image-balls {
+    background-size: cover;
+    background-image: url('images/Image4.jpg');
+}
+
+/* 背景圖片「骨牌」 */
+.background-image-domino {
+    background-size: cover;
+    background-image: url('images/Image5.jpg');
+}
+
+/* 背景圖片「日本櫻花」 */
+.background-image-japan {
+    background-size: cover;
+    background-image: url('images/Image6.jpg');
+}
