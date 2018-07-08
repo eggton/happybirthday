@@ -47,5 +47,14 @@
 /* 背景圖片「日本櫻花」 */
 .background-image-japan {
     background-size: cover;
-    background-image: url('images/Image6.jpg');
+    background-image: url('images/Image6.jpg') ;
+}
+
+.background-image-birth {
+    background-size: cover;
+    background-image: url('images/Image7.jpg') !important; 
+}
+.background-image-ming {
+    background-size: cover;
+    background-image: url('images/Image9.jpg') ;
 }
